@@ -1,4 +1,7 @@
-### Hi there 👋
+### Just some random game developer  
+- beginner programmer
+- artist
+- 3d modeler
 
 <!--
 **nitrobeets/nitrobeets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
