@@ -1,7 +1,7 @@
-### Just some random game developer  
-- beginner programmer
-- artist
-- 3d modeler
+### Apenas um desenvolvedor de jogos
+- aspirante de programação
+- artista
+- modelador 3d
 
 <!--
 **nitrobeets/nitrobeets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
