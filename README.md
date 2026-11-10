@@ -4,7 +4,7 @@
 - modelador 3d
 
 <!--
-**nitrobeets/nitrobeets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luiz_nitro/luiz_nitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
